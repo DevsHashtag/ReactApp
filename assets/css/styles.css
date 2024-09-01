@@ -31,64 +31,77 @@ html {
   font-family: IRANSans;
   font-style: normal;
   font-weight: 900;
-  src: url("/reactapp/assets/fonts/iransans/eot/iransans-web-black.eot");
-  src: url("/reactapp/assets/fonts/iransans/woff2/iransans-web-black.woff2") format("woff2"), url("/reactapp/assets/fonts/iransans/woff/iransans-web-black.woff") format("woff"), url("/reactapp/assets/fonts/iransans/ttf/iransans-web-black.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/iransans/eot/iransans-web-black.eot');
+  src: url('/reactapp/assets/fonts/iransans/woff2/iransans-web-black.woff2') format('woff2'),
+    url('/reactapp/assets/fonts/iransans/woff/iransans-web-black.woff') format('woff'),
+    url('/reactapp/assets/fonts/iransans/ttf/iransans-web-black.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: IRANSans;
   font-style: normal;
   font-weight: 700;
-  src: url("/reactapp/assets/fonts/iransans/eot/iransans-web-medium.eot");
-  src: url("/reactapp/assets/fonts/iransans/woff2/iransans-web-medium.woff2") format("woff2"), url("/reactapp/assets/fonts/iransans/woff/iransans-web-medium.woff") format("woff"), url("/reactapp/assets/fonts/iransans/ttf/iransans-web-medium.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/iransans/eot/iransans-web-medium.eot');
+  src: url('/reactapp/assets/fonts/iransans/woff2/iransans-web-medium.woff2') format('woff2'),
+    url('/reactapp/assets/fonts/iransans/woff/iransans-web-medium.woff') format('woff'),
+    url('/reactapp/assets/fonts/iransans/ttf/iransans-web-medium.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: IRANSans;
   font-style: normal;
   font-weight: 300;
-  src: url("/reactapp/assets/fonts/iransans/eot/iransans-web-light.eot");
-  src: url("/reactapp/assets/fonts/iransans/woff2/iransans-web-light.woff2") format("woff2"), url("/reactapp/assets/fonts/iransans/woff/iransans-web-light.woff") format("woff"), url("/reactapp/assets/fonts/iransans/ttf/iransans-web-light.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/iransans/eot/iransans-web-light.eot');
+  src: url('/reactapp/assets/fonts/iransans/woff2/iransans-web-light.woff2') format('woff2'),
+    url('/reactapp/assets/fonts/iransans/woff/iransans-web-light.woff') format('woff'),
+    url('/reactapp/assets/fonts/iransans/ttf/iransans-web-light.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: IRANSans;
   font-style: normal;
   font-weight: 200;
-  src: url("/reactapp/assets/fonts/iransans/eot/iransans-web-ultralight.eot");
-  src: url("/reactapp/assets/fonts/iransans/woff2/iransans-web-ultralight.woff2") format("woff2"), url("/reactapp/assets/fonts/iransans/woff/iransans-web-ultralight.woff") format("woff"), url("/reactapp/assets/fonts/iransans/ttf/iransans-web-ultralight.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/iransans/eot/iransans-web-ultralight.eot');
+  src: url('/reactapp/assets/fonts/iransans/woff2/iransans-web-ultralight.woff2') format('woff2'),
+    url('/reactapp/assets/fonts/iransans/woff/iransans-web-ultralight.woff') format('woff'),
+    url('/reactapp/assets/fonts/iransans/ttf/iransans-web-ultralight.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: IRANSans;
   font-style: normal;
   font-weight: 400;
-  src: url("/reactapp/assets/fonts/iransans/eot/iransans-web.eot");
-  src: url("/reactapp/assets/fonts/iransans/woff2/iransans-web.woff2") format("woff2"), url("/reactapp/assets/fonts/iransans/woff/iransans-web.woff") format("woff"), url("/reactapp/assets/fonts/iransans/ttf/iransans-web.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/iransans/eot/iransans-web.eot');
+  src: url('/reactapp/assets/fonts/iransans/woff2/iransans-web.woff2') format('woff2'),
+    url('/reactapp/assets/fonts/iransans/woff/iransans-web.woff') format('woff'),
+    url('/reactapp/assets/fonts/iransans/ttf/iransans-web.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: yekan;
   font-style: normal;
   font-weight: 600;
-  src: url("/reactapp/assets/fonts/yekan/eot/iran-yekan-web-bold.eot");
-  src: url("/reactapp/assets/fonts/yekan/woff/iran-yekan-web-bold.woff") format("woff"), url("/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-bold.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/yekan/eot/iran-yekan-web-bold.eot');
+  src: url('/reactapp/assets/fonts/yekan/woff/iran-yekan-web-bold.woff') format('woff'),
+    url('/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-bold.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: yekan;
   font-style: normal;
   font-weight: 300;
-  src: url("/reactapp/assets/fonts/yekan/eot/iran-yekan-web-light.eot");
-  src: url("/reactapp/assets/fonts/yekan/woff/iran-yekan-web-light.woff") format("woff"), url("/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-light.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/yekan/eot/iran-yekan-web-light.eot');
+  src: url('/reactapp/assets/fonts/yekan/woff/iran-yekan-web-light.woff') format('woff'),
+    url('/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-light.ttf') format('truetype');
 }
 @font-face {
   font-display: swap;
   font-family: yekan;
   font-style: normal;
   font-weight: 400;
-  src: url("/reactapp/assets/fonts/yekan/eot/iran-yekan-web-regular.eot");
-  src: url("/reactapp/assets/fonts/yekan/woff/iran-yekan-web-regular.woff") format("woff"), url("/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-regular.ttf") format("truetype");
+  src: url('/reactapp/assets/fonts/yekan/eot/iran-yekan-web-regular.eot');
+  src: url('/reactapp/assets/fonts/yekan/woff/iran-yekan-web-regular.woff') format('woff'),
+    url('/reactapp/assets/fonts/yekan/ttf/iran-yekan-web-regular.ttf') format('truetype');
 }
 body {
   font-family: IRANSans, yekan, Arial, sans-serif;
@@ -145,7 +158,10 @@ section {
   margin: 0 auto;
 }
 
-#blog .blogs__content, .learning-steps .guide__cards, #course .courses__content, #home .full__content,
+#blog .blogs__content,
+.learning-steps .guide__cards,
+#course .courses__content,
+#home .full__content,
 #home .proposal__content,
 #home .blogs__content {
   display: grid;
@@ -154,14 +170,20 @@ section {
   justify-items: center;
 }
 @media (min-width: 768px) {
-  #blog .blogs__content, .learning-steps .guide__cards, #course .courses__content, #home .full__content,
+  #blog .blogs__content,
+  .learning-steps .guide__cards,
+  #course .courses__content,
+  #home .full__content,
   #home .proposal__content,
   #home .blogs__content {
     grid-template-columns: 1fr 1fr;
   }
 }
 @media (min-width: 992px) {
-  #blog .blogs__content, .learning-steps .guide__cards, #course .courses__content, #home .full__content,
+  #blog .blogs__content,
+  .learning-steps .guide__cards,
+  #course .courses__content,
+  #home .full__content,
   #home .proposal__content,
   #home .blogs__content {
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -188,14 +210,28 @@ section {
   color: #fff;
 }
 
-.my-account__content .wrapper__form .form-submit, #blog .blogs__pagination .active, #blog .blogs__pagination a:hover, #course .courses .active, #course .courses__pagination a:hover, #home .blogs__btn, .main-comments__pagination .active, .main-comments__pagination a:hover, .sendcomment .newcomment-form .form__submit, .banner-mid__link, #blog .blogs__pagination a, #course .courses__pagination a, .main-comments__pagination a {
+.my-account__content .wrapper__form .form-submit,
+#blog .blogs__pagination .active,
+#blog .blogs__pagination a:hover,
+#course .courses .active,
+#course .courses__pagination a:hover,
+#home .blogs__btn,
+.main-comments__pagination .active,
+.main-comments__pagination a:hover,
+.sendcomment .newcomment-form .form__submit,
+.banner-mid__link,
+#blog .blogs__pagination a,
+#course .courses__pagination a,
+.main-comments__pagination a {
   background: #ffb606;
   padding: 0.5rem 1rem;
   color: #fff;
   border-radius: 0.4rem;
 }
 
-#blog .blogs__pagination a, #course .courses__pagination a, .main-comments__pagination a {
+#blog .blogs__pagination a,
+#course .courses__pagination a,
+.main-comments__pagination a {
   background: #f0f0f1;
   color: #000;
   font-size: 1.3rem;
@@ -207,7 +243,9 @@ section {
   text-align: center;
 }
 
-.recover-pass .wrapper__form .form-input__box i, .my-account__content .wrapper__form .form-submit i, .my-account__content .wrapper__form .form-box i {
+.recover-pass .wrapper__form .form-input__box i,
+.my-account__content .wrapper__form .form-submit i,
+.my-account__content .wrapper__form .form-box i {
   color: rgba(0, 0, 0, 0.368627451);
   position: absolute;
   bottom: 0;
@@ -222,7 +260,9 @@ section {
 }
 
 .contact-us .send-msg__form label input,
-.contact-us .send-msg__form label textarea, .recover-pass .wrapper__form .form__input, .my-account__content .wrapper__form .form-box input {
+.contact-us .send-msg__form label textarea,
+.recover-pass .wrapper__form .form__input,
+.my-account__content .wrapper__form .form-box input {
   width: 100%;
   border: 1px solid #dedede;
   padding: 0.6rem 1rem;
@@ -238,12 +278,16 @@ section {
   transition: box-shadow 0.3s ease;
 }
 .contact-us .send-msg__form label input::placeholder,
-.contact-us .send-msg__form label textarea::placeholder, .recover-pass .wrapper__form .form__input::placeholder, .my-account__content .wrapper__form .form-box input::placeholder {
+.contact-us .send-msg__form label textarea::placeholder,
+.recover-pass .wrapper__form .form__input::placeholder,
+.my-account__content .wrapper__form .form-box input::placeholder {
   color: #b0b0b0;
   opacity: 1;
 }
 .contact-us .send-msg__form label input:focus,
-.contact-us .send-msg__form label textarea:focus, .recover-pass .wrapper__form .form__input:focus, .my-account__content .wrapper__form .form-box input:focus {
+.contact-us .send-msg__form label textarea:focus,
+.recover-pass .wrapper__form .form__input:focus,
+.my-account__content .wrapper__form .form-box input:focus {
   box-shadow: 0 0 10px #ececec;
 }
 
@@ -263,7 +307,9 @@ section {
   appearance: none;
 }
 
-.no-select, .learning-steps .guide__card, .breadcrumb__list li {
+.no-select,
+.learning-steps .guide__card,
+.breadcrumb__list li {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -273,7 +319,9 @@ section {
   user-select: none;
 }
 
-.no-select:focus, .learning-steps .guide__card:focus, .breadcrumb__list li:focus {
+.no-select:focus,
+.learning-steps .guide__card:focus,
+.breadcrumb__list li:focus {
   outline: none !important;
 }
 
@@ -360,9 +408,9 @@ section {
 }
 .breadcrumb__list li:not(:last-of-type)::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  content: "\f053";
+  content: '\f053';
   font-size: 1.2rem;
   color: #055;
 }
@@ -394,7 +442,7 @@ section {
   align-items: center;
 }
 .main-banner::before {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;
@@ -576,7 +624,7 @@ section {
 .banner-mid {
   max-width: 2100px;
   margin: 0 auto;
-  background: url("/reactapp/assets/images/banners/home-banner-2.png") no-repeat center center/cover;
+  background: url('/reactapp/assets/images/banners/home-banner-2.png') no-repeat center center/cover;
   height: 35rem;
   display: flex;
   flex-direction: column;
@@ -723,7 +771,7 @@ section {
   font-size: 0.8rem;
 }
 .sendcomment .newcomment-form .info__captcha .captcha-breadcrumb li:not(:last-child)::after {
-  content: "•";
+  content: '•';
   margin: 0 0.3rem;
 }
 
@@ -1178,7 +1226,10 @@ section {
   padding-left: 6rem;
   padding-right: 2rem;
 }
-.navbar__search .search-input::-webkit-search-decoration, .navbar__search .search-input::-webkit-search-cancel-button, .navbar__search .search-input::-webkit-search-results-button, .navbar__search .search-input::-webkit-search-results-decoration {
+.navbar__search .search-input::-webkit-search-decoration,
+.navbar__search .search-input::-webkit-search-cancel-button,
+.navbar__search .search-input::-webkit-search-results-button,
+.navbar__search .search-input::-webkit-search-results-decoration {
   display: none;
 }
 .navbar__search .search-submit {
@@ -1324,7 +1375,10 @@ section {
   padding-left: 40px;
   border-radius: 3px;
 }
-.sidebar__search .search-field::-webkit-search-decoration, .sidebar__search .search-field::-webkit-search-cancel-button, .sidebar__search .search-field::-webkit-search-results-button, .sidebar__search .search-field::-webkit-search-results-decoration {
+.sidebar__search .search-field::-webkit-search-decoration,
+.sidebar__search .search-field::-webkit-search-cancel-button,
+.sidebar__search .search-field::-webkit-search-results-button,
+.sidebar__search .search-field::-webkit-search-results-decoration {
   display: none;
 }
 .sidebar__search .search-submit {
@@ -1517,7 +1571,7 @@ section {
   color: #fff;
 }
 .footer__links ul li a::before {
-  content: "";
+  content: '';
   display: inline-flex;
   width: 0;
   height: 1px;
@@ -1679,7 +1733,7 @@ section {
 }
 
 .learning-steps .main-banner {
-  background-image: url("/reactapp/reactapp/assets/images/banners/learning-steps.jpg");
+  background-image: url('/reactapp/assets/images/banners/learning-steps.jpg');
 }
 .learning-steps .steps__content {
   width: 100%;
@@ -1817,25 +1871,25 @@ section {
   background: linear-gradient(180deg, #4d01df 0%, #8a2be1 100%);
 }
 .learning-steps .guide__card--react .card-content {
-  background-image: url("/reactapp/reactapp/assets/images/learning-steps/card-react.png");
+  background-image: url('/reactapp/assets/images/learning-steps/card-react.png');
 }
 .learning-steps .guide__card--nodejs {
   background: linear-gradient(180deg, #1d7401 0%, #6e9601 100%);
 }
 .learning-steps .guide__card--nodejs .card-content {
-  background-image: url("/reactapp/reactapp/assets/images/learning-steps/card-nodejs.png");
+  background-image: url('/reactapp/assets/images/learning-steps/card-nodejs.png');
 }
 .learning-steps .guide__card--react-native {
   background: linear-gradient(180deg, #4751ca 0%, #00a2e3 100%);
 }
 .learning-steps .guide__card--react-native .card-content {
-  background-image: url("/reactapp/reactapp/assets/images/learning-steps/card-react_native.png");
+  background-image: url('/reactapp/assets/images/learning-steps/card-react_native.png');
 }
 .learning-steps .guide__card--javascript {
   background: linear-gradient(180deg, #edaf20 0%, #ed5e01 100%);
 }
 .learning-steps .guide__card--javascript .card-content {
-  background-image: url("/reactapp/reactapp/assets/images/learning-steps/card-javascript.png");
+  background-image: url('/reactapp/assets/images/learning-steps/card-javascript.png');
 }
 .learning-steps .card-content {
   display: flex;
@@ -2465,8 +2519,9 @@ section {
   margin-bottom: 1rem;
   position: relative;
 }
-.price-and-register::before, .price-and-register::after {
-  content: "";
+.price-and-register::before,
+.price-and-register::after {
+  content: '';
   width: 1.2rem;
   height: 1.2rem;
   position: absolute;
@@ -2516,7 +2571,8 @@ section {
   font-size: 2rem;
 }
 
-.register-course, .register-for-screens {
+.register-course,
+.register-for-screens {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -2532,15 +2588,18 @@ section {
   transition: 0.2s ease-in-out;
   box-shadow: 0 2px 5px rgba(31, 189, 80, 0.2);
 }
-.register-course:hover, .register-for-screens:hover {
+.register-course:hover,
+.register-for-screens:hover {
   background: #464749;
 }
-.register-course a, .register-for-screens a {
+.register-course a,
+.register-for-screens a {
   color: #fff;
   font-size: 1.7rem;
   font-weight: 500;
 }
-.register-course i, .register-for-screens i {
+.register-course i,
+.register-for-screens i {
   position: absolute;
   top: 1.4rem;
   right: 1rem;
@@ -2784,18 +2843,21 @@ section {
   width: 100%;
   overflow: auto;
 }
-.forums__content .content__table .table__column, .forums__content .content__table .table__rows .table__row {
+.forums__content .content__table .table__column,
+.forums__content .content__table .table__rows .table__row {
   display: grid;
   grid-template-columns: 4fr 1fr 1fr 2fr;
   min-width: 800px;
   text-align: center;
   font-size: 1.4rem;
 }
-.forums__content .content__table .table__column div:first-child, .forums__content .content__table .table__rows .table__row div:first-child {
+.forums__content .content__table .table__column div:first-child,
+.forums__content .content__table .table__rows .table__row div:first-child {
   text-align: right;
 }
 @media (min-width: 576px) {
-  .forums__content .content__table .table__column, .forums__content .content__table .table__rows .table__row {
+  .forums__content .content__table .table__column,
+  .forums__content .content__table .table__rows .table__row {
     font-size: 1.28rem;
   }
 }
@@ -2851,7 +2913,7 @@ section {
   }
 }
 .my-account__content .content__wrapper::before {
-  content: "";
+  content: '';
   width: 170px;
   height: 170px;
   position: absolute;
@@ -2888,7 +2950,7 @@ section {
   }
 }
 .my-account__content .wrapper__account::before {
-  content: "";
+  content: '';
   position: absolute;
   top: -65px;
   right: 0;
@@ -2896,11 +2958,12 @@ section {
   width: 130px;
   height: 130px;
   margin: auto;
-  background: url("/reactapp/reactapp/assets/images/my-account/account-logo.png") no-repeat center center;
+  background: url('/reactapp/assets/images/my-account/account-logo.png') no-repeat center center;
   background-color: #ffb606;
   border-radius: 100%;
 }
-.my-account__content .wrapper__login, .my-account__content .wrapper__register {
+.my-account__content .wrapper__login,
+.my-account__content .wrapper__register {
   width: 100%;
   padding: 0 2rem;
   display: none;
@@ -2910,16 +2973,19 @@ section {
   gap: 2.5rem;
 }
 @media (min-width: 768px) {
-  .my-account__content .wrapper__login, .my-account__content .wrapper__register {
+  .my-account__content .wrapper__login,
+  .my-account__content .wrapper__register {
     display: flex;
   }
 }
 @media (min-width: 992px) {
-  .my-account__content .wrapper__login, .my-account__content .wrapper__register {
+  .my-account__content .wrapper__login,
+  .my-account__content .wrapper__register {
     padding: 0 4rem;
   }
 }
-.my-account__content .wrapper__login.is-active, .my-account__content .wrapper__register.is-active {
+.my-account__content .wrapper__login.is-active,
+.my-account__content .wrapper__register.is-active {
   display: flex;
 }
 .my-account__content .wrapper__separator {
@@ -3032,13 +3098,13 @@ section {
     display: none;
   }
 }
-.my-account__content .wrapper__form-changer [class^=changer--] {
+.my-account__content .wrapper__form-changer [class^='changer--'] {
   font-family: inherit;
   cursor: pointer;
   color: #000;
   background-color: transparent;
 }
-.my-account__content .wrapper__form-changer [class^=changer--]:hover {
+.my-account__content .wrapper__form-changer [class^='changer--']:hover {
   color: #1839c0;
 }
 
@@ -3110,7 +3176,7 @@ section {
 }
 
 .contact-us .main-banner {
-  background-image: url("/reactapp/reactapp/assets/images/banners/contact-us.jpg");
+  background-image: url('/reactapp/assets/images/banners/contact-us.jpg');
 }
 .contact-us__content {
   background-color: #fff;
@@ -3292,7 +3358,7 @@ section {
   color: #6c757d;
 }
 .about-us .content__info div ol li:before {
-  content: counter(elementcounter) ")";
+  content: counter(elementcounter) ')';
   counter-increment: elementcounter;
   font-weight: bold;
 }
